@@ -1,0 +1,11 @@
+{
+	"geode": "v2.0.0",
+	"gd": {
+		"android": "2.206"
+	},
+	"id": "tu-usuario.mi-primer-mod",
+	"name": "Mi Primer Mod",
+	"version": "v1.0.0",
+	"developer": "TuNombre",
+	"description": "¡Mi primer mod de Geometry Dash creado desde el celu!"
+}
